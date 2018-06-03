@@ -2,3 +2,7 @@ This repo is used to create hello_world.html in the /tmp
 Once this fine is created it will have the date followed by the tag created by mallia01
 All hail the queen
 dev branch deleted
+The below milestones now stand as acheived.
+1. upload files in nexus using keys
+2. why does deleting a branch in local doesnt delete a branch in the remote
+3. setup jenkins to run the basic hello_world create_file.sh using basic script
