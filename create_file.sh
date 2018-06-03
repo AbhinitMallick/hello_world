@@ -8,3 +8,4 @@ cat /tmp/hello_world.html
 echo "###########"
 echo "Current time"
 date
+echo "###########"
