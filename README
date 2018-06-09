@@ -6,3 +6,4 @@ The below milestones now stand as acheived.
 1. upload files in nexus using keys
 2. why does deleting a branch in local doesnt delete a branch in the remote
 3. setup jenkins to run the basic hello_world create_file.sh using basic script
+4. the same jenkins build now has the abilty to fetch details from nexus respository
